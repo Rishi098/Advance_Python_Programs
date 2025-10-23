@@ -1,5 +1,20 @@
 # Hacktoberfest-2025
 
+## New Learning Tracks
+- Graph Algorithms: see `Graph_Algorithms.md` and run demos:
+  - `python algorithms/graph/dijkstra_visual.py`
+  - `python algorithms/graph/astar_grid.py`
+  - `python algorithms/graph/scc_tarjan.py`
+- Advanced Data Structures: see `Data_Structures.md` with segment tree, Fenwick tree, and union-find demos.
+- Dynamic Programming Patterns: see `DP_Patterns.md`. Run tests:
+  - `python -m unittest discover -s tests`
+
+Each module includes:
+- Easy explanation
+- Example usage (demo)
+- Time and space complexity notes
+
+
 **Check out this project as well: It's Hacktoberfest GitHub repo: [https://github.com/Rishi098/Advance_Python_Programs](https://github.com/Rishi098/Hacktoberfest2025)**
 
 # Submit your PR on this new repo [Hacktoberfest](https://github.com/Rishi098/Advance_Python_Programs). We are merging all PRs there.
